@@ -134,6 +134,7 @@ To get the notebook, simply download or clone this repository.  From there, you 
 
 ## Author Info
 
-- LinkedIn - [Owen Agitza](https://www.linkedin.com/in/owenagitza/)
 - LinkedIn - [Alfian](https://www.linkedin.com/in/alfian-05238b125/)
+- LinkedIn - [Owen Agitza](https://www.linkedin.com/in/owenagitza/)
+
 
